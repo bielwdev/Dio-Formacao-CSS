@@ -31,7 +31,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📚 Lista dos Desafios
 
-### Desafios de Códigos - Formação JavaScript Developer
+### Desafios de Códigos - Formação CSS Web Developer
 
 - [EM BREVE]()
 - [EM BREVE]()
